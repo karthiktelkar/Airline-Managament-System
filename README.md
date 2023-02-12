@@ -11,7 +11,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/[user-name]/airline-management-system.git
+git clone https://github.com/karthiktelkar/Airline-Managament-System.git
 Import the database file (airline_management.sql) into MySQL. This can be done using the following command in the MySQL terminal:
 shell
 Copy code
